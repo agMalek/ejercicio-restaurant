@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ejercicio-restaurant/static/css/main.bc10aafd.css",
-    "main.js": "/ejercicio-restaurant/static/js/main.11dc4cde.js",
+    "main.js": "/ejercicio-restaurant/static/js/main.d676ba3d.js",
     "static/js/787.94e5cc11.chunk.js": "/ejercicio-restaurant/static/js/787.94e5cc11.chunk.js",
     "static/media/Rottweiler.png": "/ejercicio-restaurant/static/media/Rottweiler.1d132f63898302c3c501.png",
     "static/media/hamburguesaPortada.png": "/ejercicio-restaurant/static/media/hamburguesaPortada.1d1818700e3bef5a4b7e.png",
@@ -22,11 +22,11 @@
     "static/media/Chiguagua.png": "/ejercicio-restaurant/static/media/Chiguagua.26211344d15cce4c6037.png",
     "index.html": "/ejercicio-restaurant/index.html",
     "main.bc10aafd.css.map": "/ejercicio-restaurant/static/css/main.bc10aafd.css.map",
-    "main.11dc4cde.js.map": "/ejercicio-restaurant/static/js/main.11dc4cde.js.map",
+    "main.d676ba3d.js.map": "/ejercicio-restaurant/static/js/main.d676ba3d.js.map",
     "787.94e5cc11.chunk.js.map": "/ejercicio-restaurant/static/js/787.94e5cc11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bc10aafd.css",
-    "static/js/main.11dc4cde.js"
+    "static/js/main.d676ba3d.js"
   ]
 }

@@ -1,0 +1,18 @@
+.textTotal{
+    font-size: 25px ;
+    font-style: italic;
+}
+
+.btnConfirmarPedido{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 15px;
+    background-color: rgb(242, 193, 61);
+    font-weight: 600;
+}
+
+.btnConfirmarPedido:hover{
+    color: rgb(242, 193, 61);
+    background-color: #000;
+    border: 1px solid rgb(242, 193, 61);
+}

@@ -1,0 +1,27 @@
+.imgIngrediente{
+    height: 35px;
+    width: 50px;
+}
+
+.contenedorArmaLaTuya{
+    background-color: #000;
+    color: white;
+}
+
+.contenedorIngredientes{
+    color: white;
+    border: none;
+    width: 100%;
+    background-color: #000;
+    padding: 10px;
+    height: 50px;
+    border: 2px solid rgb(242, 193, 61);
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.agregado{
+    background-color: rgb(242, 193, 61);
+    color: black;
+    border: 2px solid #000;
+}

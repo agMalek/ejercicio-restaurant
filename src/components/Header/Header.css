@@ -1,0 +1,21 @@
+.header{
+    background-color: #000;
+}
+
+.contenedorTextoPrincipal{
+    width: 45vw;
+    margin: auto;
+    text-align-last: right;
+
+}
+.imgPortada{
+    width: 45vw;
+}
+
+.tituloPrincipal{
+    color: white;
+}
+
+.subtituloHeader{
+    color: rgb(242, 193, 61);
+}

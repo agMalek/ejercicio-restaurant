@@ -1,6 +1,5 @@
 import axios from 'axios';
-import { useState } from 'react';
-import { useEffect } from 'react/cjs/react.development';
+import { useState, useEffect} from 'react';
 import Buscada from './Buscada/Buscada';
 import './MasBuscadas.css'
 
